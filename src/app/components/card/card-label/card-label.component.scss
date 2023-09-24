@@ -1,0 +1,17 @@
+.container {
+  position: absolute;
+  bottom: 100px;
+  right: 0;
+
+  .content {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background: #0d0d0dc2;
+    color: white;
+    font-size: 14px;
+
+    font-weight: bold;
+    padding: 5px 40px;
+  }
+}
